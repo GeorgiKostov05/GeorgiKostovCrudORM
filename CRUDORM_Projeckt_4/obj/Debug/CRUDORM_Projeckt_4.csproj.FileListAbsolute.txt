@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\CRUDORM_Projeckt_4.exe.config
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\CRUDORM_Projeckt_4.exe
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\CRUDORM_Projeckt_4.pdb
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.exe
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.pdb
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.Migrations.CRUDORM_Projeckt_4_11a.resources
+C:\Users\STUDENTS-STEM-6\Desktop\11A\CRUDORM_Projeckt_4\CRUDORM_Projeckt_4\obj\Debug\CRUDORM_Projeckt_4.csproj.GenerateResource.cache
